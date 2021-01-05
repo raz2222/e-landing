@@ -549,7 +549,6 @@ h1 {
     z-index: 10;
   }
   .rotate-moon {
-    visibility: hidden;
 
     width: 50%;
     height: 50%;
@@ -557,7 +556,6 @@ h1 {
     transform-origin: 50% 50%;
   }
   .ellipsis {
-    visibility: hidden;
     width: 20px;
     height: 150px;
     transform: scaleX(3);
@@ -567,7 +565,6 @@ h1 {
     animation: moon-depth 25s infinite linear;
   }
   .counter-rotate-moon {
-    visibility: hidden;
 
     width: 50px;
     height: 50px;
